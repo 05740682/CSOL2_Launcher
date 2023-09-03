@@ -1,5 +1,5 @@
 # CSOL2_Launcher
-This launcher is used to start Counter-Strike: Online 2
+This launcher is used to start Counter-Strike: Online 2 (CSO2 CSOL2)
 
 启动器界面仿国服端启动器 深度定制UI 兼容所有用OpenVPN搭建的CSOL2服务器
 
